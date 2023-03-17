@@ -20,6 +20,7 @@ letter-spacing: 0.06em;
 color: #22356F;
 }
 .story2{
+    transform: rotate();
     position: absolute;
 width: 592px;
 height: 210px;
